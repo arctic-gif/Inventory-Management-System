@@ -1,0 +1,5 @@
+Pavilion, HP, $2200,90, i5 10th Gen, GTX 1650
+Alienware, Dell, $2700,50, i9 11th Gen, RTX 2060
+Nitro, Acer , $3999,50, i7 11th Gen, GTX 1080
+TUF, ASUS, $4500,40, i9 12th Gen, RTX 4070
+Legion, Lenovo, $3500,80, i7 10th Gen, RTX 3080
